@@ -1,1 +1,9 @@
 ./test_file_reader.py
+./tree.py
+./file_reader.py
+./my_awesome_file.txt
+./README.md
+./.gitignore
+./.git
+./directory.txt
+./.idea

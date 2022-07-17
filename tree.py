@@ -15,5 +15,4 @@ def writing_to_file(message):
 
 
 if __name__ == '__main__':
-    walk('.')
     writing_to_file(walk('.'))
